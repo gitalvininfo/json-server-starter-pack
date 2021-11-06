@@ -1,0 +1,43 @@
+{
+  "widgets": [
+    {
+      "name": "Radar Chart",
+      "identifier": "radar_chart"
+    },
+    {
+      "name": "Doughnut Chart",
+      "identifier": "doughnut_chart"
+    },
+    {
+      "name": "Line Chart",
+      "identifier": "line_chart"
+    }
+  ],
+  "registration": [
+    {
+      "email": "juan@gmail.com",
+      "password": "123",
+      "id": "25f89776-9feb-40ec-a811-71f878607103"
+    },
+    {
+      "email": "peter@gmail.com",
+      "password": "123",
+      "id": "6d249787-92a2-4f25-9750-444ed904cc17"
+    },
+    {
+      "email": "pedro@gmail.com",
+      "password": "123",
+      "id": "0a3527a6-6362-43ca-92fb-d59718809a08"
+    },
+    {
+      "email": "hello",
+      "password": "hello@gmail.com",
+      "id": "83f6e03f-781f-4e8d-af21-4bdbfc5dd856"
+    },
+    {
+      "email": "hi",
+      "password": "hi",
+      "id": "36fc0459-5283-4394-b738-9961e5dafea2"
+    }
+  ]
+}
